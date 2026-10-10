@@ -1,6 +1,10 @@
 # Global Instructions
 
-## Specifications And Conceptual Writing
+## Math and computing
+
+- Always prefer to use `tau` instead of `pi`.
+
+## Specifications and conceptual writing
 
 - Write agent instructions as concise, direct statements of intent. Include derived rules, examples, or enumerated consequences only when needed to resolve a likely ambiguity.
 - Keep each ordinary Markdown paragraph on one source line and rely on editor soft wrapping rather than arbitrary hard wrapping.
